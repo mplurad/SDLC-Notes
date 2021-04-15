@@ -6,7 +6,9 @@
     - SDLC is governed by an international standard (ISO/IEC 12207)
   - SDLC consists of a detailed plan describing how to develop, maintain, replace, and alter or enhance specific software
   ### Phases
-  - https://www.tutorialspoint.com/sdlc/images/sdlc_stages.jpg
+
+  ![plot](./IMG/sdlc_stages.jpg)
+  
   - Planning
     - Propose alternative solutions
     - Cost estimates
