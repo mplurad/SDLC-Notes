@@ -72,7 +72,7 @@
     - Agile incorporates a lot of Lean methodology
 	  - Both care about fast delivery of working software
 	    - Agile does this through small batch sizes and “sprints”
-        - Lean does this through cutting as much unnecessary cost, scope, and work in general as possible
+            - Lean does this through cutting as much unnecessary cost, scope, and work in general as possible
  
   ### Pros and Cons of SDLC
   - Pros
@@ -151,43 +151,42 @@
     - Fixed length period of one month or less
     - Time period where you work towards achieving the goals listed in the Sprint Planning, Daily Scrums, previous Sprint Review, and previous Sprint Retrospective
     - Product Backlog and scope of project can be clarified with the Product Owner as issues arise
-	- Sprint Planning
-		- Lays out the work that should be accomplished during the upcoming Sprint
+  - Sprint Planning
+    - Lays out the work that should be accomplished during the upcoming Sprint
     - Communication between Scrum Team and Product Owner is crucial. Questions typically asked are:
       - Why is this Sprint valuable?
         - Helps the team decide on a Sprint Goal
       - What can be accomplished this Sprint?
         -  Helps narrow down items on the Product Backlog
       - How will the chosen work get done?
-	      - Developers break Product Backlog items down into individual days and assign roles
-    - Daily Scrum
-		  - ~15 minute Daily meetings where you adjust the Sprint Backlog based on your progress towards the Sprint Goal
-      - If the Product owner or Scrum Master are working on items in the Sprint Backlog, they act as developers 
-      - Often times team members meet immediately after the Daily Scrum for more technical discussions about issues they are facing
-    - Sprint Review
-		- Inspect the outcome of the Sprint and determine any future adaptations
-		- The Product Backlog may be adjusted based on the progress in the current Sprint
-		- Typically includes the following:
-			- Product Owner explains what Product Backlog items have been Done and what are not Done
-			- Developers discuss what went well during the Sprint, what problems they ran into, and the solutions they found
-			- The Product Owner projects delivery dates based on the current progress and assess budget concerns if delays occurred
-			- Team decides how to move forward to help ease the upcoming Sprint’s Sprint Planning
-	-Sprint Retrospective
-		- Inspect how the last Sprint went and what got Done
-		- Identify the most helpful changes to improve effectiveness
-		- Discuss what went well during the Sprint
-		- Discuss what could have been improved during the Sprint
-		- Discuss how developers will improve in the next Sprint
--Scrum Documentation
-	-Sprint Backlog
-		- Composed of the Sprint Goal (the Why), the set of Product Backlog items selected for the Sprint (the What), and an action plan for delivering the Increment (the How)
-	- Sprint Goal
-		- The main objective for a Sprint 
-	-Increment
-		- A concrete stepping stone toward the Product Goal
-		- Work cannot be considered part of an Increment unless it meets the Definition of Done
-			- Description of the state of an Increment when it meets the quality measures set in place
-	- Product Backlog
-		- Ordered list of what is needed to improve the product
-		- Gets refined by breaking down items into smaller, more manageable pieces
- 
+        - Developers break Product Backlog items down into individual days and assign roles
+  - Daily Scrum
+    - ~15 minute Daily meetings where you adjust the Sprint Backlog based on your progress towards the Sprint Goal
+    - If the Product owner or Scrum Master are working on items in the Sprint Backlog, they act as developers 
+    - Often times team members meet immediately after the Daily Scrum for more technical discussions about issues they are facing
+  - Sprint Review
+    - Inspect the outcome of the Sprint and determine any future adaptations
+    - The Product Backlog may be adjusted based on the progress in the current Sprint
+    - Typically includes the following:
+      - Product Owner explains what Product Backlog items have been Done and what are not Done
+      - Developers discuss what went well during the Sprint, what problems they ran into, and the solutions they found
+      - The Product Owner projects delivery dates based on the current progress and assess budget concerns if delays occurred
+      - Team decides how to move forward to help ease the upcoming Sprint’s Sprint Planning
+  - Sprint Retrospective
+    - Inspect how the last Sprint went and what got Done
+    - Identify the most helpful changes to improve effectiveness
+    - Discuss what went well during the Sprint
+    - Discuss what could have been improved during the Sprint
+    - Discuss how developers will improve in the next Sprint
+  - Scrum Documentation
+    - Sprint Backlog
+      - Composed of the Sprint Goal (the Why), the set of Product Backlog items selected for the Sprint (the What), and an action plan for delivering the Increment (the How)
+    - Sprint Goal
+      - The main objective for a Sprint 
+    - Increment
+      - A concrete stepping stone toward the Product Goal
+      - Work cannot be considered part of an Increment unless it meets the Definition of Done
+      - Description of the state of an Increment when it meets the quality measures set in place
+    - Product Backlog
+      - Ordered list of what is needed to improve the product
+      - Gets refined by breaking down items into smaller, more manageable pieces
