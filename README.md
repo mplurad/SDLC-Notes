@@ -30,8 +30,11 @@
  
 ### Models of SDLC
   - SDLC is a process to which there are several methodologies to implement that process: Waterfall, Iterative, Agile, DevOps, V-Model, Spiral, Lean, etc.
+  - The big picture here is to understand the changes that software development has undergone e.g. why the Waterfall method's failure led to Agile's popularity
   - Waterfall
-    - {waterfall image here}
+
+    ![plot](./IMG/waterfall_model.png)
+
     - Divide software development into separate phases
     - One phase must be finished before beginning the next phase
     - Main focus is gathering all requirements at first and then building the product based off of those requirements
@@ -41,32 +44,46 @@
 	    - Strict requirements shown at the very beginning
 	    - Strict timeline of development and due date (code freeze and presentations)
   - Iterative
-    - {iterative image here}
+
+    ![plot](./IMG/iterative_model.jpg)
+
     - Start with a simple implementation of just a subset of the requirements and iterate over the remaining features
     - Main focus is clearly defining major features and minor features that may be modified during the development process
   - Agile
-    - {Agile image here}
+
+    ![plot](./IMG/Agile.png)
+
     - Every project needs to be handled differently and you need to tailor existing methods to best suit the project requirements
     - Major focus is taking an iterative approach and presenting a working software build at the end of every iteration
     - Leads to a much less detailed plan but this allows for far greater flexibility in terms of features
+  
   - DevOps
-    - {DevOps image here}
+
+    ![plot](./IMG/DevOps.png)
+
     - Traditionally, the IT operations team is responsible for deploying and managing the software while having little interaction with the development team that writes the code
     - DevOps ensures both teams work closely together
     - Sometimes both teams are even merged into one, where an engineer will work on the entire SDLC
+  
   - V-Model (Verification and Validation Model)
-    - {V-Model image here}
+
+    ![plot](./IMG/v_model.jpg)
+  
     - Can be considered an extension of Waterfall
     - Each development is closely followed by testing right after, so this method goes back and forth between development and testing often
     - A phase must be fully completed before moving onto the next
     - Verification is a static analysis technique which is reviewing without executing the code
     - Validation is a dynamic analysis technique which is actually executing the code and running it through tests
   - Spiral Model
-    - {Spiral Model image here}
+
+    ![plot](./IMG/spiral_model.jpg)
+
     - Has 4 phases that a software project repeatedly passes through--called Spirals--until it is completed
     - Identification, Design, Construction, Risk Analysis
   - Lean Model
-    - {Lean Model image here}
+
+    ![plot](./IMG/Lean.png)
+
     - Reduce unnecessary work at every opportunity (cutting meetings, reducing documentation, etc.) 
     - Only work on what is essential at the time so no multitasking
     - Agile incorporates a lot of Lean methodology
@@ -87,18 +104,18 @@
 ## Agile
   ### The 12 Principles of the Agile Manifesto (summary/interpretation):
   - https://agilemanifesto.org/principles.html
-  - 1. First priority is to satisfy the client
-  - 2. Flexible to changes in requirements at any point
-  - 3. Frequently deliver working software
-  - 4. Developers and business people frequently work together
-  - 5. The people working on the project should care about the project
-  - 6. Best method of communication is face-to-face
-  - 7. Progress is measured by working software
-  - 8. Effort should be constant throughout the SDLC so as to avoid burnout but still be efficient
-  - 9. Frequently pay attention to good design
-  - 10. ..”Simplicity--the art of maximizing the amount of [unnecessary] work not done..” Basically, don’t do unnecessary work
-  - 11. Promotes self-organizing teams such that teams don’t depend on a manager but manage their own associated responsibilities and timelines
-  - 12. Regularly reflect on what’s working well and not working well for the team, and implement the necessary changes
+  1. First priority is to satisfy the client
+  2. Flexible to changes in requirements at any point
+  3. Frequently deliver working software
+  4. Developers and business people frequently work together
+  5. The people working on the project should care about the project
+  6. Best method of communication is face-to-face
+  7. Progress is measured by working software
+  8. Effort should be constant throughout the SDLC so as to avoid burnout but still be efficient
+  9. Frequently pay attention to good design
+  10. ”..Simplicity--the art of maximizing the amount of [unnecessary] work not done..” Basically, don’t do unnecessary work
+  11. Promotes self-organizing teams such that teams don’t depend on a manager but manage their own associated responsibilities and timelines
+  12. Regularly reflect on what’s working well and not working well for the team, and implement the necessary changes
  
   ### Advantages of Agile
   - Client plays a larger role
@@ -148,6 +165,9 @@
     - Hold each other accountable
   ### Scrum Cycle
   - Sprint
+
+    ![plot](./IMG/SCRUM.png)
+
     - Fixed length period of one month or less
     - Time period where you work towards achieving the goals listed in the Sprint Planning, Daily Scrums, previous Sprint Review, and previous Sprint Retrospective
     - Product Backlog and scope of project can be clarified with the Product Owner as issues arise
