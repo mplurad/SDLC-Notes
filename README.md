@@ -190,11 +190,11 @@
     - Inspect the outcome of the Sprint and determine any future adaptations
     - The Product Backlog may be adjusted based on the progress in the current Sprint
     - Typically includes the following:
-      - Product Owner explains what Product Backlog items have been Done and what are not Done
       - Developers discuss what went well during the Sprint, what problems they ran into, and the solutions they found
-      - The Product Owner projects delivery dates based on the current progress and assess budget concerns if delays occurred
       - Team decides how to move forward to help ease the upcoming Sprint’s Sprint Planning
   - Sprint Retrospective
+    - Product Owner explains what Product Backlog items have been Done and what are not Done
+    - The Product Owner projects delivery dates based on the current progress and assess budget concerns if delays occurred
     - Inspect how the last Sprint went and what got Done
     - Identify the most helpful changes to improve effectiveness
     - Discuss what went well during the Sprint
